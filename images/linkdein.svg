@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_192" data-name="Group 192" transform="translate(-0.844 -0.138)">
+    <circle id="Oval" cx="18" cy="18" r="18" transform="translate(0.844 0.138)" fill="#0e76a8"/>
+    <path id="Path" d="M10.255,10.865h0V5.042C10.259,2.194,9.646,0,6.317,0A3.457,3.457,0,0,0,3.2,1.711H3.157V.266H0v10.6H3.287V5.616c0-1.382.262-2.718,1.973-2.718C6.946,2.9,6.971,4.475,6.971,5.7v5.16Z" transform="translate(17.615 14.51)" fill="#fff"/>
+    <path id="Path-2" data-name="Path" d="M0,0H3.291V10.6H0Z" transform="translate(12.262 14.776)" fill="#fff"/>
+    <path id="Path-3" data-name="Path" d="M1.906,0A1.915,1.915,0,1,0,3.812,1.906,1.907,1.907,0,0,0,1.906,0Z" transform="translate(12 9.5)" fill="#fff"/>
+  </g>
+</svg>
